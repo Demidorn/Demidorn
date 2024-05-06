@@ -1,9 +1,9 @@
 ### Hi there, I'm Doreen 👋, passionate software engineer.
 
 - 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently specializing in Frontend
 - 👯 I’m looking to collaborate with others developers
-- 💬 Ask me about C, Python, WhatsApp chatbot
+- 💬 Ask me about Frontend Engineering and development.
 - 📫 How to reach me: dornkaizen@gmail.com
 - 😄 Pronouns: Her | She
 
