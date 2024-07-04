@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my personal projects
 - 🌱 I’m currently specializing in Frontend
 - 👯 I’m looking to collaborate with others developers
-- 💬 Ask me about Frontend Engineering and development.
+- 💬 Ask me about Software Engineering .
 - 📫 How to reach me: dornkaizen@gmail.com
 - 😄 Pronouns: Her | She
 
